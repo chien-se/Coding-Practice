@@ -1,0 +1,605 @@
+web_URL_id,web_URL,domain_category,risk_score,serious_critical,unique_rules_per_url,total_violations
+16,https://www.healthcare.gov,Government and Public Services,4.0,1,1,1
+17,https://www.kids.gov,Government and Public Services,3.25,1,4,4
+20,https://www.floodsmart.gov,Government and Public Services,3.0,1,3,3
+21,https://www.arstechnica.com,News and Media,3.5714285714285716,4,7,7
+26,https://www.popsci.com,News and Media,4.0,5,7,7
+27,https://www.discovermagazine.com,News and Media,3.25,1,4,4
+28,https://www.newscientist.com,News and Media,3.0,1,6,6
+30,https://www.theguardian.com/world,News and Media,3.2857142857142856,2,7,7
+33,https://www.3dcart.com,E-commerce,4.5,4,4,4
+35,https://www.weebly.com,E-commerce,3.5,5,10,10
+38,https://www.presta.com,E-commerce,3.4,2,5,5
+51,https://www.mit.edu,Technology Science and Research,3.5,1,2,2
+52,https://www.mit.edu/news,Technology Science and Research,3.0,1,4,4
+58,https://www.sciencex.com,Technology Science and Research,3.0,0,2,2
+64,https://www.getepic.com,Educational Platforms,3.3333333333333335,4,9,9
+65,https://www.knovva.com,Educational Platforms,3.8,3,5,5
+68,https://www.open.edu,Educational Platforms,3.3333333333333335,2,3,3
+77,https://www.gov.za,Government and Public Services,3.6363636363636362,5,11,11
+81,https://www.epa.gov,Government and Public Services,4.0,1,1,1
+93,https://www.squarespace.com,E-commerce,3.5,2,4,4
+95,https://www.wix.com,E-commerce,2.75,1,4,4
+96,https://www.bigcartel.com,E-commerce,3.0,2,5,5
+97,https://www.volusion.com,E-commerce,3.625,4,8,8
+105,https://www.khanacademy.org/video,Streaming Platforms,3.5,1,2,2
+107,https://www.shape.com,Health and Wellness,2.5,0,2,2
+108,https://www.fitbottomedgirls.com,Health and Wellness,3.875,5,8,8
+109,https://www.nerdfitness.com,Health and Wellness,3.0,0,2,2
+111,https://www.eatingbirdfood.com,Health and Wellness,3.5,2,4,4
+112,https://www.wellnessmama.com,Health and Wellness,4.0,2,2,2
+113,https://www.avocadu.com,Health and Wellness,3.4285714285714284,3,7,7
+119,https://www.sciencealert.com,Technology Science and Research,3.2,2,5,5
+120,https://www.futurity.org,Technology Science and Research,3.75,5,8,8
+122,https://www.technologyreview.com,Technology Science and Research,3.8333333333333335,5,6,6
+123,https://www.theconversation.com,Technology Science and Research,3.875,4,8,8
+124,https://www.infoworld.com,Technology Science and Research,3.8,3,5,5
+169,https://www.proprofs.com,Educational Platforms,3.5714285714285716,3,7,7
+180,https://www.getyourrefund.org,Government and Public Services,4.333333333333333,3,3,3
+186,https://www.theatlantic.com,News and Media,3.3333333333333335,2,3,3
+189,https://www.vanityfair.com,News and Media,3.6923076923076925,8,13,13
+204,https://www.ted.com,Streaming Platforms,3.7857142857142856,8,14,14
+215,https://www.health.harvard.edu,Health and Wellness,3.0,1,2,2
+216,https://www.nhs.uk,Health and Wellness,3.5,1,2,2
+223,https://www.eurekalert.org,Technology Science and Research,4.142857142857143,6,7,7
+225,https://www.jhu.edu/research,Technology Science and Research,3.6666666666666665,2,3,3
+226,https://www.esa.int,Technology Science and Research,3.7142857142857144,4,7,7
+232,https://www.woocommerce.com,E-commerce,3.5,4,6,6
+234,https://www.sciencedaily.com,Technology Science and Research,3.75,3,4,4
+236,https://www.phys.org,Technology Science and Research,3.0,0,2,2
+239,https://www.wellandgood.com,Health and Wellness,3.0,0,1,1
+244,https://www.openlearning.com,Educational Platforms,3.2857142857142856,3,7,7
+249,https://www.canvaslms.com,Educational Platforms,3.4285714285714284,4,7,7
+250,https://www.blackboard.com,Educational Platforms,3.0,0,1,1
+252,https://www.prodigygame.com,Educational Platforms,3.3636363636363638,4,11,11
+255,https://www.ck12.org,Educational Platforms,3.3333333333333335,1,3,3
+256,https://www.learnwellservices.com,Educational Platforms,3.75,4,8,8
+257,https://www.moodle.org,Educational Platforms,3.625,5,8,8
+258,https://www.classpoint.io,Educational Platforms,4.0,5,6,6
+259,https://www.canvas.net,Educational Platforms,3.6,3,5,5
+263,https://www.schoology.com,Educational Platforms,3.6,3,5,5
+266,https://www.canada.ca,Government and Public Services,3.5,1,2,2
+268,https://www.gov.ie,Government and Public Services,3.5,1,2,2
+270,https://www.energy.gov,Government and Public Services,3.0,1,3,3
+274,https://www.foia.gov,Government and Public Services,2.75,0,4,4
+275,https://www.consumer.gov,Government and Public Services,3.6666666666666665,3,6,6
+276,https://www.arts.gov,Government and Public Services,3.3333333333333335,1,3,3
+281,https://www.bbc.com,News and Media,3.625,5,8,8
+286,https://www.nbcnews.com,News and Media,3.5714285714285716,7,14,14
+298,https://www.target.com,E-commerce,3.0,2,7,7
+301,https://www.amazon.com/primevideo,Streaming Platforms,3.4,4,10,10
+305,https://www.shudder.com,Streaming Platforms,3.5,2,4,4
+309,https://www.globoplay.com,Streaming Platforms,2.6666666666666665,1,3,3
+312,https://www.verywellhealth.com,Health and Wellness,3.0,1,4,4
+313,https://www.fitnessblender.com,Health and Wellness,3.5,2,4,4
+316,https://www.doctoroz.com,Health and Wellness,3.6,3,5,5
+318,https://www.acefitness.org,Health and Wellness,3.8,9,15,15
+319,https://www.clevelandclinic.org,Health and Wellness,3.5,2,6,6
+326,https://www.pytorch.org,Technology Science and Research,3.857142857142857,4,7,7
+331,https://www.academicearth.org,Educational Platforms,3.4,2,5,5
+335,https://www.usa.gov,Government and Public Services,3.0,0,3,3
+337,https://www.nasa.gov,Government and Public Services,3.6666666666666665,4,6,6
+343,https://www.latimes.com,News and Media,3.4,2,5,5
+344,https://www.nytimes.com,News and Media,3.6666666666666665,4,6,6
+354,https://www.pbs.org,Streaming Platforms,3.0,1,4,4
+358,https://www.menshealth.com,Health and Wellness,3.25,1,4,4
+359,https://www.womenshealthmag.com,Health and Wellness,3.3333333333333335,1,3,3
+362,https://www.ieee.org,Technology Science and Research,3.25,1,4,4
+364,https://www.acm.org,Technology Science and Research,3.5833333333333335,6,12,12
+368,https://www.buzzfeednews.com,News and Media,3.5,2,4,4
+371,https://www.msnbc.com,News and Media,3.357142857142857,6,14,14
+381,https://www.uopeople.edu,Educational Platforms,3.3846153846153846,6,13,13
+382,https://www.openculture.com,Educational Platforms,3.8333333333333335,9,12,12
+384,https://www.edraak.org,Educational Platforms,3.8,6,10,10
+387,https://www.merckmanuals.com,Health and Wellness,4.0,2,2,2
+388,https://www.cancer.gov,Health and Wellness,3.5,1,2,2
+391,https://www.nih.gov,Health and Wellness,3.3333333333333335,1,3,3
+392,https://www.psychologytoday.com,Health and Wellness,3.3333333333333335,4,9,9
+399,https://www.vinted.com,E-commerce,3.8333333333333335,5,6,6
+401,https://www.dailymotion.com,Streaming Platforms,3.25,2,4,4
+402,https://www.vimeo.com,Streaming Platforms,2.5,0,4,4
+404,https://www.mixcloud.com,Streaming Platforms,3.0,0,2,2
+408,https://www.stitcher.com,Streaming Platforms,3.0,1,4,4
+413,https://www.scientificamerican.com,Technology Science and Research,3.0,1,2,2
+414,https://www.hackaday.com,Technology Science and Research,3.75,7,12,12
+415,https://www.makeuseof.com,Technology Science and Research,3.6666666666666665,5,9,9
+416,https://www.techcrunch.com,Technology Science and Research,3.1666666666666665,3,6,6
+419,https://www.space.com,Technology Science and Research,3.5714285714285716,4,7,7
+420,https://www.sciencenews.org,Technology Science and Research,3.5,1,2,2
+424,https://www.codecademy.com,Educational Platforms,3.0,1,2,2
+428,https://www.twitch.tv,Streaming Platforms,3.5,3,6,6
+431,https://www.zappos.com,E-commerce,3.3333333333333335,3,6,6
+434,https://www.healthline.com,Health and Wellness,3.3333333333333335,1,3,3
+435,https://www.webmd.com,Health and Wellness,3.642857142857143,8,14,14
+500,https://www.healthcare.gov/get-coverage/,Health and Wellness,4.0,1,1,1
+501,https://www.healthcare.gov/get-answers/,Health and Wellness,4.0,2,3,3
+502,https://www.healthcare.gov/have-coverage/,Health and Wellness,4.0,1,1,1
+503,https://arstechnica.com/health/,Technology Science and Research,3.4444444444444446,10,9,18
+504,https://arstechnica.com/science/,Technology Science and Research,3.4444444444444446,10,9,18
+505,https://arstechnica.com/gadgets/,Technology Science and Research,3.4444444444444446,10,9,18
+506,https://www.popsci.com/category/science/,Technology Science and Research,4.2,4,5,5
+507,https://www.popsci.com/category/technology/,Technology Science and Research,4.2,4,5,5
+508,https://www.popsci.com/category/ai/,Technology Science and Research,4.2,4,5,5
+509,https://www.discovermagazine.com/technology,Technology Science and Research,3.2,2,5,5
+510,https://www.discovermagazine.com/health,Health and Wellness,3.0,1,4,4
+511,https://www.smithsonianmag.com/category/science-nature/,Technology Science and Research,5.0,1,1,1
+512,https://www.volusion.com/pricing,E-commerce,3.5,3,6,6
+513,https://www.volusion.com/features/themes,E-commerce,3.5,3,6,6
+515,https://fitbottomedgirls.com/2024/12/is-walking-exercise/,Health and Wellness,3.8,6,10,10
+516,https://fitbottomedgirls.com/category/eats/,Health and Wellness,3.7142857142857144,4,7,7
+517,https://fitbottomedgirls.com/category/eats/nutrition/,Health and Wellness,3.625,4,8,8
+518,https://www.futurity.org/category/health-medicine/,Health and Wellness,3.8,4,5,5
+519,https://www.futurity.org/category/science-technology/,Technology Science and Research,3.8,4,5,5
+520,https://theconversation.com/nz,News and Media,3.4444444444444446,4,9,9
+521,https://theconversation.com/au,News and Media,3.4545454545454546,5,11,11
+522,https://www.nbcnews.com/select,News and Media,3.8666666666666667,10,15,15
+523,https://www.nbcnews.com/us-news,News and Media,3.5833333333333335,6,12,12
+524,https://www.nbcnews.com/politics,News and Media,3.727272727272727,6,11,11
+525,https://www.nbcnews.com/world,News and Media,3.5833333333333335,6,12,12
+526,https://www.nbcnews.com/sports,News and Media,3.727272727272727,6,11,11
+539,https://www.zeropointhealthstore.com/,E-commerce,3.75,3,4,4
+540,https://www.zeropointhealers.com/,Health and Wellness,4.0,2,2,2
+542,https://zeenews.india.com/entertainment/articles/story87930.htm,News and Media,3.142857142857143,3,7,7
+543,https://zeenews.india.com/entertainment/articles/story96851.htm,News and Media,3.142857142857143,3,7,7
+545,https://zeenews.india.com/news/punjab/sikh-group-raps-badal-regime-in-bhullar-case_734092.html,News and Media,3.3333333333333335,3,6,6
+548,https://nbsubscribe.missouri.edu/news-releases/2011/0607-summer-program-offers-talented-missouri-high-school-students-new-opportunities-at-mu/,Educational Platforms,3.8,3,5,5
+557,https://www.mills.edu/news/2005/newsarticle04222005ron_dellums_117th_commencement.php,Educational Platforms,3.5714285714285716,4,7,7
+558,https://www.mills.edu/news/2006/newsarticle04202006renel_athletic_achievement.php,Educational Platforms,3.5714285714285716,4,7,7
+559,https://www.mills.edu/news/2006/newsarticle08162006convocation_speaker_brooks_moon.php,Educational Platforms,3.5714285714285716,4,7,7
+569,https://www.verywellhealth.com/health-care-4014769,Health and Wellness,4.0,1,1,1
+570,https://www.verywellhealth.com/health-insurance-overview-4581967,Health and Wellness,4.0,2,3,3
+571,https://www.verywellhealth.com/public-health-4158386,Health and Wellness,3.0,1,3,3
+572,https://www.verywellhealth.com/news-4846412,Health and Wellness,4.0,1,1,1
+573,https://www.verywellhealth.com/health-news-4844929,Health and Wellness,3.5,1,2,2
+700,https://www.usa.gov/about-the-us,Government and Public Services,3.25,1,4,4
+701,https://www.usa.gov/benefits,Government and Public Services,3.25,1,4,4
+702,https://www.usa.gov/immigration-and-citizenship,Government and Public Services,3.25,1,4,4
+703,https://www.usa.gov/money,Government and Public Services,3.25,1,4,4
+704,https://www.usa.gov/taxes,Government and Public Services,3.25,1,4,4
+705,https://www.usa.gov/travel,Government and Public Services,3.25,1,4,4
+706,https://arstechnica.com/ai/,News and Media,3.4444444444444446,5,9,9
+707,https://arstechnica.com/information-technology/,News and Media,3.4444444444444446,5,9,9
+708,https://arstechnica.com/cars/,News and Media,3.4444444444444446,5,9,9
+709,https://arstechnica.com/culture/,News and Media,3.4444444444444446,5,9,9
+710,https://arstechnica.com/gaming/,News and Media,3.4444444444444446,5,9,9
+711,https://arstechnica.com/health/,News and Media,3.4444444444444446,10,9,18
+712,https://arstechnica.com/tech-policy/,News and Media,3.4444444444444446,5,9,9
+713,https://arstechnica.com/science/,News and Media,3.4444444444444446,10,9,18
+714,https://arstechnica.com/security/,News and Media,3.4444444444444446,5,9,9
+715,https://arstechnica.com/space/,News and Media,3.4444444444444446,5,9,9
+716,https://arstechnica.com/gadgets/,News and Media,3.4444444444444446,10,9,18
+722,https://www.newscientist.com/subject/society/,News and Media,3.25,1,4,4
+723,https://www.newscientist.com/subject/health/,News and Media,3.25,1,4,4
+724,https://www.newscientist.com/subject/space/,News and Media,3.25,1,4,4
+725,https://www.newscientist.com/subject/physics/,News and Media,3.25,1,4,4
+726,https://www.newscientist.com/subject/technology/,News and Media,3.25,1,4,4
+727,https://www.newscientist.com/subject/environment/,News and Media,3.25,1,4,4
+728,https://www.newscientist.com/subject/mind/,News and Media,3.25,1,4,4
+729,https://www.newscientist.com/subject/humans/,News and Media,3.25,1,4,4
+730,https://www.newscientist.com/subject/life/,News and Media,3.25,1,4,4
+731,https://www.newscientist.com/subject/mathematics/,News and Media,3.25,1,4,4
+732,https://www.newscientist.com/subject/chemistry/,News and Media,3.25,1,4,4
+733,https://www.newscientist.com/subject/earth/,News and Media,3.25,1,4,4
+5000,https://www.example.com/,Technology Science and Research,5.0,6,2,6
+5001,https://www.google.com/,Technology Science and Research,5.0,1,1,1
+5002,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/cab9b2d06e5a44e2056ccbdbb7096f55ab42859c.html,Educational Platforms,5.0,1,1,1
+5003,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5effbb/43730455b69439980b95151be477ca594e0d7556.html,Educational Platforms,4.0,1,1,1
+5004,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5effbb/45d884e81c4ef8234cfbd85d259dd6a64685c9d2.html,Educational Platforms,4.0,1,1,1
+5005,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5effbb/98f0638a038a244b0bde70ff316cde1be7ce9a3b.html,Educational Platforms,4.0,1,1,1
+5006,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5effbb/bf3ba787eb7a6819ea1a6adccdfd1f30842ed788.html,Educational Platforms,4.0,1,1,1
+5007,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/aizyf1/b130285915a8ca42926a11553a5791f44b65d487.html,Educational Platforms,4.0,1,1,1
+5008,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/aizyf1/bf3ba787eb7a6819ea1a6adccdfd1f30842ed788.html,Educational Platforms,4.0,1,1,1
+5009,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b49b2e/acae544ba63bf9c71988fb67d491c7d404164f52.html,Educational Platforms,3.0,0,1,1
+5010,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b49b2e/d76e8834b616356b2803586a8fbd0825a84e3fc8.html,Educational Platforms,3.0,0,1,1
+5011,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c4a8a4/1844d7bce889d85a80b620468baa804eab3ff2c8.html,Educational Platforms,4.0,1,1,1
+5012,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c4a8a4/2c1397032aad720fe43dee2be0d326be56957320.html,Educational Platforms,4.0,1,1,1
+5013,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c4a8a4/4c72b3b9b06bf1edc3c959070731b65871ee0c8f.html,Educational Platforms,4.0,1,1,1
+5014,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/cc0f0a/1e52060759a535934176a5a981446066aad6b31f.html,Educational Platforms,5.0,1,1,1
+5015,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/cc0f0a/649946098faf6f36b8232ea74fc3bae3cf8997e7.html,Educational Platforms,5.0,1,1,1
+5016,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/cc0f0a/fa5104f9bd07fe52813d7e511c3cc87c4c1cf232.html,Educational Platforms,5.0,1,1,1
+5017,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/de46e4/50e733e0c505a556fc53e6265eb5b432823570f7.html,Educational Platforms,4.0,1,1,1
+5018,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/de46e4/5ba0306adadd581e4331b9415c2ef9f8ecccc0f2.html,Educational Platforms,4.0,1,1,1
+5019,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/de46e4/795698c08fc5d404b649d0c367bedc3e83462d43.html,Educational Platforms,4.0,1,1,1
+5020,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/de46e4/915cdae554a817caa4792101fde1adf14563227d.html,Educational Platforms,4.0,1,1,1
+5021,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/de46e4/b1765660b28464b5a73e502ef30b7370ba294ff5.html,Educational Platforms,4.0,1,1,1
+5022,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/off6ek/5b88bdc5f7d936eaa1fdd2f5f8fdd4022548d5ac.html,Educational Platforms,4.0,1,1,1
+5023,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/off6ek/ffcbd35493c91b4d8ee42c3a7fba9c2356144257.html,Educational Platforms,4.0,1,1,1
+5024,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/qt1vmo/2f7d82593e287df64b7459695e355a840254255c.html,Educational Platforms,5.0,1,1,1
+5025,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/qt1vmo/485f10faf222cd48fea2ab3ee79c2d354e51ea33.html,Educational Platforms,5.0,1,1,1
+5026,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/ucwvc8/61b97f487132c7aca3dd9787e9ff1454903d45fb.html,Educational Platforms,4.0,1,1,1
+5027,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/ucwvc8/864ccfb9bdb2c7f797602c5e4f25d1a0ad2aad7c.html,Educational Platforms,4.0,1,1,1
+21319415,https://www.noaa.gov,Government and Public Services,3.3333333333333335,2,6,6
+37517988,https://dequeuniversity.com/rules/axe/4.10/form-field-multiple-labels?application=RuleDescription,Technology Science and Research,3.0,1,4,4
+53239342,https://www.fubo.tv,Streaming Platforms,3.6666666666666665,2,3,3
+79862148,https://www.jsonline.com,News and Media,3.5,2,4,4
+108292809,https://www.wired.com,Technology Science and Research,3.5555555555555554,5,9,9
+111849147,https://dequeuniversity.com/rules/axe/4.10/aria-treeitem-name?application=RuleDescription,Technology Science and Research,3.3333333333333335,2,3,3
+114166897,https://www.britbox.com,Streaming Platforms,4.0,4,5,5
+128813600,https://en.wikiversity.org,Educational Platforms,3.6,3,5,5
+145563147,https://www.qvc.com,E-commerce,3.4,2,5,5
+193670859,https://www.abcnews.go.com,News and Media,4.076923076923077,10,13,13
+230914312,https://www.dailymail.co.uk,News and Media,3.5384615384615383,7,13,13
+265528793,https://www.readtheory.org,Educational Platforms,4.0,5,6,6
+328623724,https://www.kahoot.com,Educational Platforms,3.888888888888889,6,9,9
+339464061,https://www.cleveland.com,News and Media,3.6,3,5,5
+340545659,https://www.lidl.com,E-commerce,3.5,4,8,8
+440208167,https://www.snapdeal.com,E-commerce,3.3333333333333335,1,3,3
+447677652,https://www.disneyplus.com,Streaming Platforms,3.0,0,2,2
+488474617,https://www.fashionnova.com,E-commerce,3.25,4,8,8
+499022650,https://www.nike.com,E-commerce,3.5384615384615383,7,13,13
+519658437,https://www.latex-project.org,Technology Science and Research,3.75,2,4,4
+529912387,https://www.allbirds.com,E-commerce,2.5,0,2,2
+531083003,https://www.justice.gov,Government and Public Services,3.4,3,5,5
+546358444,https://www.thegreatcourses.com,Educational Platforms,3.857142857142857,4,7,7
+581517740,https://dequeuniversity.com/rules/axe/4.10/target-size?application=RuleDescription,Technology Science and Research,3.3333333333333335,2,3,3
+587130571,https://www.apple.com/store,E-commerce,4.5,2,2,2
+589105098,https://www.koreatimes.co.kr,News and Media,3.0,1,4,4
+604991355,https://www.tehrantimes.com,News and Media,3.923076923076923,9,13,13
+692205405,https://www.nytimes.com/,News and Media,3.6666666666666665,4,6,6
+702203214,https://www.nps.gov,Government and Public Services,3.6666666666666665,2,3,3
+739443498,https://www.w3schools.com,Technology Science and Research,3.4,2,5,5
+739501289,https://www.overstock.com,E-commerce,3.5,4,6,6
+775058569,https://www.fema.gov,Government and Public Services,3.3333333333333335,2,6,6
+805430153,https://www.nzherald.co.nz,News and Media,3.5,5,8,8
+816887837,https://www.ibm.com/research,Technology Science and Research,4.166666666666667,4,6,6
+841418439,https://www.wish.com,E-commerce,3.5,5,8,8
+848513793,https://www.amtrak.com,Government and Public Services,3.909090909090909,7,11,11
+853326546,https://dequeuniversity.com/rules/axe/4.10/aria-meter-name?application=RuleDescription,Technology Science and Research,3.3333333333333335,2,3,3
+901536746,https://www.sonyliv.com,Streaming Platforms,3.75,2,4,4
+944160244,https://www.ntsb.gov,Government and Public Services,3.888888888888889,7,9,9
+997556472,https://www.fedramp.gov,Government and Public Services,3.25,1,4,4
+1023432310,https://www.engadget.com,Technology Science and Research,3.4444444444444446,5,9,9
+1028755231,https://www.theverge.com,Technology Science and Research,3.625,5,8,8
+1036859048,https://www.bea.gov,Government and Public Services,3.2,2,5,5
+1041759486,https://www.bbc.com/news,News and Media,3.8333333333333335,4,6,6
+1058560753,https://www.arxiv.org,Technology Science and Research,4.0,1,1,1
+1072199356,https://www.plos.org,Technology Science and Research,3.0,0,2,2
+1083829665,https://www.metro.com,E-commerce,3.3333333333333335,2,3,3
+1105435317,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/d0f69e/6bb6ca5dcdbd1fef063561f61de88740db24bd5d.html,Technology Science and Research,3.25,1,4,4
+1112632392,https://www.underarmour.com,E-commerce,3.8461538461538463,9,13,13
+1115295724,https://www.al-monitor.com,News and Media,3.5,4,8,8
+1161701424,https://www.osmre.gov,Government and Public Services,3.3846153846153846,6,13,13
+1248925021,https://www.athletic.live,Streaming Platforms,3.75,8,12,12
+1253615845,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/954326e5ba700d4616d924807f427002816e9fc3.html,Technology Science and Research,3.5,2,4,4
+1266621207,https://act-rules.github.io/rules/8fc3b6,Technology Science and Research,4.0,2,2,2
+1270397352,https://www.bioconductor.org,Technology Science and Research,3.0,0,2,2
+1344325832,https://www.acs.org,Technology Science and Research,3.25,3,8,8
+1373328769,https://www.hbomax.com,Streaming Platforms,3.5,2,4,4
+1394450881,https://www.nhl.com/tv,Streaming Platforms,3.3333333333333335,2,3,3
+1402472951,https://www.kanopy.com,Streaming Platforms,3.0,0,3,3
+1433604318,https://www.jpost.com,News and Media,3.25,3,8,8
+1472999600,https://www.paramountplus.com,Streaming Platforms,3.5555555555555554,6,9,9
+1488388154,https://www.cnet.com/,Technology Science and Research,4.0,3,3,3
+1499175565,https://online.berkeley.edu,Educational Platforms,3.3333333333333335,1,3,3
+1506920243,https://www.pnl.gov,Government and Public Services,3.25,1,4,4
+1521860334,https://www.irs.gov,Government and Public Services,2.8,1,5,5
+1539544757,https://www.bibme.org,Technology Science and Research,3.0,1,3,3
+1631804793,https://www.opm.gov,Government and Public Services,3.75,5,8,8
+1683921588,https://www.medium.com,Technology Science and Research,5.0,1,1,1
+1712224681,https://www.economist.com,News and Media,3.75,2,4,4
+1746488226,https://tv.youtube.com,Streaming Platforms,3.5,4,8,8
+1767084624,https://www.hulu.com,Streaming Platforms,3.4444444444444446,4,9,9
+1782594227,https://www.cliffsnotes.com,Educational Platforms,3.0,0,2,2
+1822721092,https://www.docsville.com,Streaming Platforms,3.4,3,5,5
+1850054633,https://www.deeplearning.ai,Technology Science and Research,4.111111111111111,8,9,9
+1851235277,https://www.rakuten.com,E-commerce,3.8,3,5,5
+1856386766,https://www.ibm.com/training,Educational Platforms,4.0,9,12,12
+1866132720,https://www.usatoday.com,News and Media,3.272727272727273,4,11,11
+1885857067,https://www.peloton.com,Streaming Platforms,3.25,2,4,4
+1902084907,https://www.aljazeera.com,News and Media,3.2,2,5,5
+1930985973,https://www.varsitytutors.com,Educational Platforms,4.125,6,8,8
+1950445330,https://www.tsa.gov,Government and Public Services,3.3333333333333335,2,3,3
+1957689776,https://www.toysrus.com,E-commerce,3.5,4,8,8
+1963641873,https://www.who.int/,Health and Wellness,2.75,1,4,4
+1966382623,https://eu.usatoday.com/,News and Media,3.3,3,10,10
+2001421671,https://www.coursera.org,Educational Platforms,3.4,18,5,45
+2001421671,https://www.coursera.org,Streaming Platforms,3.4,18,5,45
+2001421671,https://www.coursera.org,Technology Science and Research,3.4,18,5,45
+2044150440,https://www.simplehabit.com,Streaming Platforms,3.6,3,5,5
+2099407450,https://www.ornl.gov,Government and Public Services,3.25,1,4,4
+2103007653,https://www.code.org,Educational Platforms,3.6666666666666665,2,3,3
+2128318591,https://www.usa.gov/,Government and Public Services,3.0,0,3,3
+2176046364,https://www.huggingface.co,Technology Science and Research,3.7142857142857144,3,7,7
+2178564963,https://www.beautybay.com,E-commerce,3.0,0,1,1
+2182179087,https://dequeuniversity.com/rules/axe/4.10/empty-table-header?application=RuleDescription,Technology Science and Research,2.6666666666666665,1,3,3
+2235305803,https://www.iheart.com,Streaming Platforms,3.5,3,6,6
+2241802183,https://www.abc.net.au/news,News and Media,3.75,3,4,4
+2254872401,https://www.ebay.de/,E-commerce,3.5,4,6,6
+2279899774,https://www.cisa.gov,Government and Public Services,3.2,2,5,5
+2344724610,https://act-rules.github.io/rules/674b10,Technology Science and Research,3.0,1,2,2
+2421931133,https://www.khanacademy.org,Educational Platforms,3.6,9,2,15
+2421931133,https://www.khanacademy.org,Streaming Platforms,3.6,9,2,15
+2421931133,https://www.khanacademy.org,Technology Science and Research,3.6,9,2,15
+2459242315,https://www.pandora.com,Streaming Platforms,3.4,2,5,5
+2480140715,https://www.fws.gov,Government and Public Services,3.0,2,7,7
+2527413330,https://www.indiatoday.in,News and Media,3.4,2,5,5
+2530989927,https://www.foxnews.com,News and Media,3.5714285714285716,3,7,7
+2542497289,https://www.azcentral.com,News and Media,3.5,2,4,4
+2551766233,https://www.microsoft.com/en-us/learning,Educational Platforms,3.6666666666666665,2,3,3
+2561699022,https://www.nationalguard.com,Government and Public Services,3.3333333333333335,1,3,3
+2583591840,https://www.womenshealthmag.com/,Health and Wellness,3.3333333333333335,1,3,3
+2588940216,https://www.arrow-player.com,Streaming Platforms,3.6666666666666665,4,6,6
+2605949885,https://www.tass.com,News and Media,3.75,5,8,8
+2644215829,https://www.navy.mil,Government and Public Services,3.6,2,5,5
+2647735504,https://www.hp.com,E-commerce,3.6666666666666665,6,9,9
+2656435105,https://www.sltrib.com,News and Media,3.4166666666666665,6,12,12
+2681794065,https://www.treehouse.com,Streaming Platforms,3.4,4,10,10
+2761488864,https://www.criterionchannel.com,Streaming Platforms,3.5714285714285716,4,7,7
+2781254041,https://www.nbcnews.com/,News and Media,3.5714285714285716,7,14,14
+2786295051,https://www.socrative.com,Educational Platforms,4.0,3,4,4
+2797271121,https://www.education.com,Educational Platforms,3.5,3,6,6
+2839400116,https://www.codechef.com,Educational Platforms,3.2857142857142856,3,7,7
+2848237884,https://www.pacer.uscourts.gov,Government and Public Services,3.6666666666666665,4,6,6
+2853208851,https://www.vevo.com,Streaming Platforms,3.5,2,4,4
+2937956084,https://www.mapmyrun.com,Streaming Platforms,2.5,0,2,2
+2973108458,https://www.spiegel.de/international,News and Media,3.6666666666666665,2,3,3
+2996541679,https://www.soundcloud.com,Streaming Platforms,4.4,4,5,5
+2998356382,https://www.theglobeandmail.com,News and Media,2.8333333333333335,1,6,6
+3038375729,https://www.arcgis.com,Technology Science and Research,3.875,5,8,8
+3085396104,https://www.freecodecamp.org,Educational Platforms,3.3333333333333335,2,3,6
+3085396104,https://www.freecodecamp.org,Technology Science and Research,3.3333333333333335,2,3,6
+3101899065,https://act-rules.github.io/rules/5c01ea,Technology Science and Research,4.0,3,3,3
+3109021059,https://www.mathworks.com,Technology Science and Research,3.3333333333333335,1,3,3
+3131917710,https://www.quizizz.com,Educational Platforms,3.75,6,8,8
+3150148978,https://www.bigcommerce.com,E-commerce,3.3333333333333335,2,6,6
+3176249728,https://www.vudu.com,Streaming Platforms,3.5,1,4,4
+3221942806,https://www.producthunt.com,Technology Science and Research,4.0,3,3,3
+3231484510,https://scholar.google.com/,Technology Science and Research,3.6666666666666665,4,6,6
+3257894929,https://www.filmstruck.com,Streaming Platforms,3.6,2,5,5
+3281832154,https://www.ncbi.nlm.nih.gov,Technology Science and Research,3.4,2,5,5
+3317334630,https://www.luminarypodcasts.com,Streaming Platforms,3.8333333333333335,4,6,6
+3374636661,https://www.japantimes.co.jp,News and Media,3.4444444444444446,5,9,9
+3377503893,https://www.brilliant.org,Educational Platforms,3.75,3,4,4
+3472695288,https://www.cdc.gov,Government and Public Services,3.2222222222222223,2,9,9
+3479547415,https://www.ctvnews.ca,News and Media,3.8,3,5,5
+3531794931,https://www.scmp.com,News and Media,3.5,3,6,6
+3538180808,https://www.state.gov,Government and Public Services,3.5,1,4,4
+3546013468,https://www.tableau.com,Technology Science and Research,4.0,1,1,1
+3548409958,https://www.zdnet.com,Technology Science and Research,3.25,2,4,4
+3562170487,https://www.showtime.com,Streaming Platforms,2.75,2,8,8
+3563193797,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/qt1vmo/bac67a5a2ada971100bbec89961ad3e6c869f268.html,Technology Science and Research,3.6,2,5,5
+3629420269,https://www.conted.ox.ac.uk,Educational Platforms,3.3333333333333335,2,3,3
+3701517235,https://www.huffpost.com,News and Media,3.5,4,8,8
+3731007183,https://www.bookwidgets.com,Educational Platforms,3.7142857142857144,4,7,7
+3787975237,https://www.thetimes.co.uk,News and Media,3.8181818181818183,8,11,11
+3805747062,https://www.kocowa.com,Streaming Platforms,3.0,1,4,4
+3838269417,https://www.stata.com,Technology Science and Research,4.0,5,7,7
+3842572222,https://www.express.co.uk,News and Media,3.0,1,2,2
+3871549955,https://dequeuniversity.com/rules/axe/4.10/area-alt?application=RuleDescription,Technology Science and Research,3.6666666666666665,2,3,3
+3876207056,https://www.sba.gov,Government and Public Services,4.0,1,1,1
+3900495188,https://www.tutor.com,Educational Platforms,3.5,1,2,2
+3936345126,https://www.lemonde.fr,News and Media,3.4444444444444446,4,9,9
+3951256293,https://www.classdojo.com,Educational Platforms,4.0,5,5,5
+3962126274,https://www.dell.com,E-commerce,3.3333333333333335,1,3,3
+3962772074,https://act-rules.github.io/rules/047fe0,Technology Science and Research,4.0,2,2,2
+3978893713,https://act-rules.github.io/rules/80f0bf,Technology Science and Research,3.5,1,2,2
+3996855574,https://www.kodable.com,Educational Platforms,3.2,2,5,5
+4073569427,https://www.slideshare.net,Educational Platforms,3.0,0,1,1
+4078511185,https://www.gao.gov,Government and Public Services,3.1666666666666665,1,6,6
+4085447448,https://www.gsa.gov,Government and Public Services,3.0,1,5,5
+4097069082,https://www.roku.com,Streaming Platforms,3.25,2,4,4
+4113932095,https://www.shmoop.com,Educational Platforms,3.2857142857142856,3,7,7
+4116548132,https://www.frontiersin.org,Technology Science and Research,4.0,1,1,1
+4157596408,https://www.time.com,News and Media,3.3333333333333335,3,6,6
+4183809767,https://www.nrc.gov,Government and Public Services,3.75,2,4,4
+4224720555,https://www.tmall.com,E-commerce,4.0,8,10,10
+4244958066,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2t702h/f0f5f9e727e46e257e5d6420a8ab11b760c75617.html,Technology Science and Research,3.25,1,4,4
+4246706624,https://www.cnn.com,News and Media,3.4,2,5,5
+4264400098,https://www.samsung.com/us/shop,E-commerce,4.0,8,10,10
+4321301368,https://www.thestar.com,News and Media,3.4545454545454546,6,11,11
+4336372604,https://www.tubi.tv,Streaming Platforms,3.5,2,4,4
+4339903018,https://www.topcoder.com,Educational Platforms,3.4285714285714284,3,7,7
+4355727937,https://www.wetv.vip,Streaming Platforms,3.5714285714285716,4,7,7
+4365991990,https://www.plex.tv/,Streaming Platforms,4.0,7,10,10
+4374409465,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/4b0aaf07c6e9fb6ea3495dd9cecf55d47b9539b8.html,Technology Science and Research,3.6,2,5,5
+4391300162,https://www.shopify.com,E-commerce,3.6,3,5,5
+4456160312,https://www.ulta.com,E-commerce,3.75,3,4,4
+4473637646,https://www.writetheworld.com,Educational Platforms,3.4285714285714284,3,7,7
+4528812531,https://www.yogaglo.com,Streaming Platforms,3.8,3,5,5
+4643564980,https://dequeuniversity.com/rules/axe/4.10/aria-braille-equivalent?application=RuleDescription,Technology Science and Research,3.3333333333333335,2,3,3
+4710657151,https://www.mendeley.com,Technology Science and Research,4.0,2,3,3
+4751627646,https://www.va.gov,Government and Public Services,4.0,1,1,1
+4763170911,https://www.connectedpapers.com/,Technology Science and Research,3.875,6,8,8
+4770170269,https://mcit.gov.eg/,Government and Public Services,4.0,9,12,12
+4781756887,https://www.tes.com,Educational Platforms,3.75,5,8,8
+4807426702,https://www.scihub.se,Technology Science and Research,3.0,0,2,2
+4840230107,https://www.collegevine.com,Educational Platforms,3.75,5,8,8
+4841476546,https://www.nearpod.com,Educational Platforms,3.6666666666666665,2,3,3
+4843063990,https://www.bia.gov,Government and Public Services,4.0,1,1,1
+4872839958,https://www.netflix.com,Streaming Platforms,3.2857142857142856,2,7,7
+4888426482,https://www.philly.com,News and Media,3.533333333333333,7,15,15
+4912544535,https://www.pluralsight.com,Educational Platforms,3.739130434782609,42,9,69
+4912544535,https://www.pluralsight.com,Streaming Platforms,3.739130434782609,42,9,69
+4912544535,https://www.pluralsight.com,Technology Science and Research,3.739130434782609,42,9,69
+4925950366,https://www.aliexpress.com/,E-commerce,4.0,6,8,8
+4927888957,https://www.oercommons.org,Educational Platforms,3.3333333333333335,1,3,3
+4970188583,https://www.analyticsvidhya.com,Technology Science and Research,3.3333333333333335,2,3,3
+4974750346,https://www.timesofindia.com,News and Media,3.3333333333333335,5,12,12
+5008414810,https://www.carrefour.com,E-commerce,3.5,4,8,8
+5052508376,https://www.codewars.com,Educational Platforms,3.25,3,8,8
+5064908942,https://www.eeoc.gov,Government and Public Services,3.2857142857142856,4,7,7
+5100047719,https://www.theintercept.com,News and Media,3.3333333333333335,3,6,6
+5108022623,https://www.oregonlive.com,News and Media,3.5,2,4,4
+5117799549,https://www.alibaba.com/,E-commerce,3.5833333333333335,6,12,12
+5138684180,https://www.spss.com,Technology Science and Research,3.888888888888889,13,18,18
+5151103662,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6cfa84/4e7955d592cbf361a55113fcd4524e979b16bb08.html,Technology Science and Research,3.75,2,4,4
+5224083866,https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/a25f45/cd25fd6cc4fde1734fc90c2f11e71886e3458007.html,Technology Science and Research,3.25,1,4,4
+5256418738,https://www.hayneedle.com,E-commerce,3.0,0,2,2
+5258548666,https://www.dailyburn.com,Streaming Platforms,3.6666666666666665,4,6,6
+5263734580,https://www.academia.edu,Technology Science and Research,3.5,4,8,8
+5275238699,https://www.bbc.com/,News and Media,3.625,5,8,8
+5316008758,https://www.ed.gov,Government and Public Services,2.8333333333333335,1,6,6
+5318769506,https://www.citizen.co.za,News and Media,3.6,4,5,5
+5350616698,https://www.livescience.com,Technology Science and Research,3.625,5,8,8
+5351185237,https://www.lenovo.com,E-commerce,3.5714285714285716,3,7,7
+5356854547,https://www.nal.usda.gov,Government and Public Services,3.5,1,2,2
+5376893347,https://www.nih.gov/,Health and Wellness,3.3333333333333335,1,3,3
+5385474195,https://www.perlego.com,Technology Science and Research,3.75,2,4,4
+5418069070,https://www.ebay.com,E-commerce,3.7142857142857144,5,7,7
+5419658127,https://www.tutorialspoint.com,Educational Platforms,4.0,9,13,13
+5424827103,https://online-learning.harvard.edu,Educational Platforms,3.0,0,2,2
+5439488327,https://www.oig.hhs.gov,Government and Public Services,3.2,2,5,5
+5477862853,https://www.hackerearth.com,Educational Platforms,3.4285714285714284,4,7,7
+5483640632,https://www.tomsHardware.com,Technology Science and Research,3.5,4,8,8
+5511408010,https://www.nrl.navy.mil,Government and Public Services,3.1666666666666665,2,6,6
+5537562569,https://www.soulcycle.com,Streaming Platforms,3.6,3,5,5
+5627013288,https://learn.k20center.ou.edu,Educational Platforms,3.3333333333333335,4,9,9
+5627798358,https://www.elpais.com,News and Media,3.625,4,8,8
+5653019337,https://stackoverflow.com/,Technology Science and Research,3.5714285714285716,4,7,7
+5653366561,https://www.cbsnews.com/,News and Media,3.5454545454545454,5,11,11
+5671992993,https://www.curriki.org,Educational Platforms,3.5,4,8,8
+5794675406,https://www.forbes.com,News and Media,3.0,1,6,6
+5827428762,https://www.brainpop.com,Educational Platforms,4.0,2,2,2
+5881075695,https://www.r-project.org,Technology Science and Research,3.3333333333333335,1,3,3
+5921955571,https://www.rtve.es,News and Media,3.3,5,10,10
+5964897764,https://www.udemy.com,Educational Platforms,5.0,9,1,9
+5964897764,https://www.udemy.com,Streaming Platforms,5.0,9,1,9
+5964897764,https://www.udemy.com,Technology Science and Research,5.0,9,1,9
+5992521276,https://www.mirror.co.uk,News and Media,3.875,6,8,8
+6027797305,https://www.gitlab.com,Technology Science and Research,4.2,4,5,5
+6130539113,https://www.indystar.com,News and Media,3.0,2,8,8
+6153424620,https://www.shein.com,E-commerce,4.0,6,9,9
+6171806211,https://www.ntia.gov,Government and Public Services,3.0,1,4,4
+6223584289,https://www.educative.io,Educational Platforms,3.2,2,5,5
+6234431059,https://www.meditopia.com,Streaming Platforms,3.3333333333333335,3,6,6
+6256204254,https://www.smh.com.au,News and Media,3.4545454545454546,6,11,11
+6323163136,https://www.oreilly.com,Educational Platforms,4.5,2,2,2
+6392990708,https://www.starz.com,Streaming Platforms,3.0,1,6,6
+6405568922,https://www.apnews.com,News and Media,3.6666666666666665,4,6,6
+6413090819,https://www.prezi.com,Educational Platforms,3.6666666666666665,2,3,3
+6465448582,https://www.boohoo.com,E-commerce,3.3333333333333335,1,3,3
+6479190649,https://www.detroitnews.com,News and Media,3.1818181818181817,3,11,11
+6479733415,https://www.gaana.com,Streaming Platforms,4.0,4,5,5
+6529673719,https://www.geeksforgeeks.org,Educational Platforms,3.4285714285714284,12,7,28
+6529673719,https://www.geeksforgeeks.org,Technology Science and Research,3.4285714285714284,12,7,28
+6570560458,https://act-rules.github.io/rules/eac66b,Technology Science and Research,4.5,2,2,2
+6579152806,https://www.nature.com,Technology Science and Research,3.5,1,2,2
+6654382965,https://www.tampabay.com,News and Media,3.625,9,16,16
+6658823136,https://www.dw.com,News and Media,3.7142857142857144,5,7,7
+6666281102,https://ocw.mit.edu,Educational Platforms,3.2,1,5,5
+6699878654,https://www.propublica.org,News and Media,3.7777777777777777,6,9,9
+6744278124,https://www.wyzant.com,Educational Platforms,3.25,2,4,4
+6768581677,https://www.peardeck.com,Educational Platforms,3.0,1,5,5
+6772200394,https://www.matplotlib.org,Technology Science and Research,3.0,1,3,3
+6786271985,https://www.goconqr.com,Educational Platforms,3.5714285714285716,4,7,7
+6787611399,https://www.mashable.com,News and Media,3.3333333333333335,1,3,3
+6794078706,https://www.vans.com,E-commerce,3.3333333333333335,1,3,3
+6801509843,https://www.lazada.com,E-commerce,3.25,1,4,4
+6901236114,https://www.acorn.tv,Streaming Platforms,3.0,0,2,2
+6909367836,https://www.theguardian.com,News and Media,3.2857142857142856,2,7,7
+6933375342,https://www.mytheresa.com,E-commerce,3.75,2,4,4
+6976784819,https://www.lightinthebox.com,E-commerce,3.3846153846153846,5,13,13
+7014268699,https://www.numpy.org,Technology Science and Research,3.6666666666666665,4,6,6
+7024248304,https://www.springer.com,Technology Science and Research,3.0,0,3,3
+7056899377,https://www.elibrary.ru,Technology Science and Research,4.0,6,8,8
+7100506634,https://www.commonlit.org,Educational Platforms,3.5,1,2,2
+7124602025,https://www.bostonglobe.com,News and Media,3.6,6,10,10
+7151218343,https://www.uscis.gov,Government and Public Services,3.75,3,4,4
+7169554469,https://www.npr.org,News and Media,3.4545454545454546,5,11,11
+7201688552,https://www.news.com.au,News and Media,3.1666666666666665,2,6,6
+7273535364,https://www.denverpost.com,News and Media,3.8,3,5,5
+7320503111,https://www.theaustralian.com.au,News and Media,3.1666666666666665,2,6,6
+7343118135,https://www.mxplayer.in,Streaming Platforms,4.0,4,6,6
+7386667211,https://www.curiositystream.com,Streaming Platforms,3.75,2,4,4
+7423931758,https://www.ustr.gov,Government and Public Services,3.75,5,8,8
+7443295495,https://www.dazn.com,Streaming Platforms,4.0,2,2,2
+7450209543,https://www.dod.mil,Government and Public Services,3.3333333333333335,1,3,3
+7456807770,https://www.thehindu.com,News and Media,3.3529411764705883,7,17,17
+7490807377,https://www.stackoverflow.com,Technology Science and Research,3.5714285714285716,4,7,7
+7561129082,https://www.ifcfilms.com,Streaming Platforms,3.5555555555555554,5,9,9
+7585490098,https://www.gizmodo.com,Technology Science and Research,3.75,3,4,4
+7596130808,https://www.vox.com,News and Media,3.3333333333333335,1,3,3
+7604830192,https://www.article.com,E-commerce,3.5714285714285716,5,7,7
+7611853384,https://www.nsf.gov,Government and Public Services,3.3333333333333335,1,3,3
+7632242029,https://www.rsc.org,Technology Science and Research,3.0,0,1,1
+7644158705,https://www.padlet.com,Educational Platforms,3.3333333333333335,2,3,3
+7669162755,https://www.dailymotion.com/de,Streaming Platforms,3.6,3,5,5
+7750001119,https://www.wordreference.com/,Technology Science and Research,4.0,6,9,9
+7810794510,https://www.usgs.gov,Government and Public Services,3.6666666666666665,3,6,6
+7838382411,https://www.zooniverse.org,Educational Platforms,3.5,1,2,2
+7874467996,https://www.twitch.tv/,Streaming Platforms,3.5,3,6,6
+7908444877,https://www.jd.com,E-commerce,3.5555555555555554,5,9,9
+7918200647,https://www.mubi.com,Streaming Platforms,3.4,2,5,5
+7928264163,https://www.pbs.org/newshour,News and Media,3.4444444444444446,5,9,9
+7943498338,https://www.garmin.com,Streaming Platforms,3.5,2,4,4
+7947636348,https://www.archives.gov,Government and Public Services,3.4,2,5,5
+7965215914,https://dequeuniversity.com/rules/axe/4.10/aria-tooltip-name?application=RuleDescription,Technology Science and Research,3.3333333333333335,2,3,3
+8006238889,https://www.globalnews.ca,News and Media,3.6666666666666665,2,3,3
+8020577869,https://www.ssa.gov,Government and Public Services,3.142857142857143,2,7,7
+8047369079,https://www.dnaindia.com,News and Media,3.090909090909091,3,11,11
+8054950596,https://www.trade.gov,Government and Public Services,4.0,2,2,2
+8056970126,https://www.grokker.com,Streaming Platforms,3.6666666666666665,6,9,9
+8066758432,https://www.runtastic.com,Streaming Platforms,2.5,0,2,2
+8085884109,https://www.usitc.gov,Government and Public Services,3.3333333333333335,1,3,3
+8142768037,https://www.the-sun.com,News and Media,3.4285714285714284,3,7,7
+8170624278,https://www.ansa.it,News and Media,3.375,4,8,8
+8179331530,https://www.nordstrom.com,E-commerce,3.5,2,4,4
+8185584488,https://www.packtpub.com,Educational Platforms,3.4,2,5,5
+8244832401,https://www.edx.org,Educational Platforms,3.923076923076923,27,5,39
+8244832401,https://www.edx.org,Streaming Platforms,3.923076923076923,27,5,39
+8244832401,https://www.edx.org,Technology Science and Research,3.923076923076923,27,5,39
+8317483224,https://www.futurelearn.com,Educational Platforms,5.0,4,1,4
+8317483224,https://www.futurelearn.com,Technology Science and Research,5.0,4,1,4
+8325352647,https://www.acf.hhs.gov,Government and Public Services,3.3333333333333335,1,3,3
+8352230246,https://act-rules.github.io/rules/5b7ae0,Technology Science and Research,3.5,1,2,2
+8420224297,https://www.mdpi.com,Technology Science and Research,4.0,6,8,8
+8437119697,https://www.bitbucket.org,Technology Science and Research,4.0,4,5,5
+8454429618,https://www.epa.gov/,Government and Public Services,4.0,1,1,1
+8491823152,https://www.cloudacademy.com,Educational Platforms,3.8823529411764706,12,17,17
+8562170592,https://www.sling.com,Streaming Platforms,3.25,1,4,4
+8589605512,https://act-rules.github.io/rules/akn7bn,Technology Science and Research,4.0,2,2,2
+8602576754,https://www.sas.com,Technology Science and Research,3.4,2,5,5
+8613910382,https://www.mathletics.com,Educational Platforms,3.3333333333333335,4,9,9
+8616262877,https://www.kaggle.com,Technology Science and Research,3.0,0,2,2
+8649911099,https://online.yale.edu,Educational Platforms,4.0,3,3,3
+8654682977,https://libretexts.org,Educational Platforms,3.4285714285714284,3,7,7
+8697981092,https://www.interior.gov,Government and Public Services,3.2857142857142856,3,7,7
+8727933125,https://www.ivi.ru,Streaming Platforms,3.7,6,10,10
+8728895407,https://www.benefits.gov,Government and Public Services,3.0,0,3,3
+8734339493,https://www.pbgc.gov,Government and Public Services,3.5,2,4,4
+8773059234,https://openstax.org,Educational Platforms,3.5,3,6,6
+8774465854,https://www.scratch.mit.edu,Educational Platforms,4.0,5,6,6
+8791766791,https://www.allafrica.com,News and Media,3.2222222222222223,3,9,9
+8818139023,https://www.boomplay.com,Streaming Platforms,4.0,4,5,5
+8818878279,https://www.uspto.gov,Government and Public Services,3.0,1,7,7
+8854230542,https://www.fhfa.gov,Government and Public Services,3.0,1,3,3
+8866935042,https://www.fox.com/,Streaming Platforms,2.75,1,4,4
+8873477499,https://www.whitehouse.gov,Government and Public Services,3.75,2,4,4
+8883634268,https://www.harvard.edu/,Educational Platforms,3.3333333333333335,2,3,3
+8918898275,https://www.marines.mil,Government and Public Services,3.5,3,6,6
+8921344296,https://www.nba.com/watch,Streaming Platforms,4.0,6,10,10
+8958991169,https://www.howtogeek.com,Technology Science and Research,3.6666666666666665,5,9,9
+8987402778,https://www.metro.co.uk,News and Media,3.625,3,8,8
+9040720038,https://www.federalreserve.gov,Government and Public Services,3.25,1,4,4
+9053765347,https://www.auchan.com,E-commerce,4.0,3,4,4
+9055889873,https://www.sephora.com,E-commerce,3.3333333333333335,1,3,3
+9073219799,https://www.tensorflow.org,Technology Science and Research,4.166666666666667,5,6,6
+9115778574,https://www.nrel.gov,Government and Public Services,3.3333333333333335,1,3,3
+9136224526,https://www.dol.gov,Government and Public Services,3.25,1,4,4
+9219227082,https://www.overleaf.com,Technology Science and Research,4.0,1,1,1
+9319730542,https://www.target.com/,E-commerce,3.0,2,7,7
+9322041267,https://www.medicaid.gov,Government and Public Services,3.75,3,4,4
+9364906934,https://www.headspace.com,Streaming Platforms,3.5,1,2,2
+9394068939,https://www.dhs.gov,Government and Public Services,3.0,3,6,6
+9402057227,https://www.databricks.com,Technology Science and Research,4.0,1,1,1
+9458755226,https://www.salon.com,News and Media,4.0,4,5,5
+9503543617,https://www.thedailybeast.com,News and Media,3.4444444444444446,4,9,9
+9513728892,https://www.noredink.com,Educational Platforms,2.75,1,4,4
+9533668246,https://www.saavn.com,Streaming Platforms,3.3076923076923075,5,13,13
+9637552863,https://www.microsoft.com/en-us/research,Technology Science and Research,3.3333333333333335,1,3,3
+9645471193,https://www.fda.gov/,Government and Public Services,3.5,2,4,4
+9684391649,https://www.downdogapp.com,Streaming Platforms,3.6666666666666665,5,9,9
+9727821720,https://www.nj.com,News and Media,3.5714285714285716,4,7,7
+9752502690,https://www.bangkokpost.com,News and Media,3.2222222222222223,4,9,9
+9777365068,https://www.medicare.gov,Government and Public Services,4.0,1,1,1
+9777552764,https://www.educaplay.com,Educational Platforms,3.7777777777777777,6,9,9
+9815980762,https://www.glossier.com,E-commerce,3.5833333333333335,7,12,12
+9817868776,https://teamtreehouse.com,Educational Platforms,3.5714285714285716,4,7,7
+9869898930,https://www.strava.com,Streaming Platforms,3.5,3,6,6
+9883619995,https://www.fiit.tv,Streaming Platforms,3.5,4,10,10
+9915679548,https://www.qgis.org,Technology Science and Research,3.5714285714285716,4,7,7
+9936752400,https://www.bbg.gov,Government and Public Services,3.3636363636363638,3,11,11
+9990083020,https://www.popularmechanics.com,Technology Science and Research,3.3333333333333335,1,3,3
+9990906928,https://www.tynker.com,Educational Platforms,3.5,1,2,2
+9995023032,https://pluto.tv/gsa/live-tv/650adb92a1217e00091a3eff?lang=en,Streaming Platforms,3.5714285714285716,3,7,7
+9995178363,https://www.digitaltrends.com,Technology Science and Research,3.6,5,10,10
